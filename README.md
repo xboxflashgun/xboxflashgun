@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xboxflashgun, and this is my pet project.
-- 👀 I’m interested in Xbox video games, but I don't play it. I'm gathering gamers' playing statistics and trying to analyze it.
-- 🌱 I’m currently learning perl, postgresql, php, ecma, d3.js
-- 💞️ I’m looking to collaborate on d3.js and visualization
+- 👀 I’m interested in Xbox video games, but actually I don't play them. Instead, I'm gathering gamers' playing statistics and trying to visualize and analyze it.
+- 🌱 I’m currently learning perl, linux, postgresql, php, ecma, d3.js, rust
+- 💞️ I’m looking to collaborate on frontend d3.js and visualization
 - 📫 How to reach me: flashgun@xboxstat.ru
 - ⚡ Fun fact: I've got a bald cat named Shrimpy
 
